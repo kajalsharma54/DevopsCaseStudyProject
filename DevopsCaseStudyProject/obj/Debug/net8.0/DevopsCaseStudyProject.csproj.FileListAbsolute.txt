@@ -1,0 +1,15 @@
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\bin\Debug\net8.0\DevopsCaseStudyProject.exe
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\bin\Debug\net8.0\DevopsCaseStudyProject.deps.json
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\bin\Debug\net8.0\DevopsCaseStudyProject.runtimeconfig.json
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\bin\Debug\net8.0\DevopsCaseStudyProject.dll
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\bin\Debug\net8.0\DevopsCaseStudyProject.pdb
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\obj\Debug\net8.0\DevopsCaseStudyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\obj\Debug\net8.0\DevopsCaseStudyProject.AssemblyInfoInputs.cache
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\obj\Debug\net8.0\DevopsCaseStudyProject.AssemblyInfo.cs
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\obj\Debug\net8.0\DevopsCaseStudyProject.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\obj\Debug\net8.0\DevopsCaseStudyProject.sourcelink.json
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\obj\Debug\net8.0\DevopsCaseStudyProject.dll
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\obj\Debug\net8.0\refint\DevopsCaseStudyProject.dll
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\obj\Debug\net8.0\DevopsCaseStudyProject.pdb
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\obj\Debug\net8.0\DevopsCaseStudyProject.genruntimeconfig.cache
+D:\DotNetProjects\DevopsCaseStudyProject\DevopsCaseStudyProject\obj\Debug\net8.0\ref\DevopsCaseStudyProject.dll
